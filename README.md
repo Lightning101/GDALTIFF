@@ -1,2 +1,2 @@
 # GDALTIFF
-A simple program to generate tiff from geojson file using gdal bindings.
+A simple program to generate tiff from geojson file using gdal Java bindings.
